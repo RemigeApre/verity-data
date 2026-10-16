@@ -2,22 +2,22 @@
   {
     "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx",
     "handle": "nomducreateur",
-    "name": "Nom du Créateur",
+    "name": "Nom du CrÃ©ateur",
     "entries": [
       {
         "id": "1",
         "category": "politique",
-        "title": "Soutien public à l'extrême droite",
-        "description": "A relayé et commenté favorablement plusieurs contenus d'extrême droite lors de la campagne présidentielle 2022.",
+        "title": "Soutien public Ã  l'extrÃªme droite",
+        "description": "A relayÃ© et commentÃ© favorablement plusieurs contenus d'extrÃªme droite lors de la campagne prÃ©sidentielle 2022.",
         "source_url": "https://www.liberation.fr",
-        "source_label": "Libération, mars 2022",
+        "source_label": "LibÃ©ration, mars 2022",
         "date": "2022-03-15"
       },
       {
         "id": "2",
         "category": "juridique",
-        "title": "Condamné pour fraude fiscale",
-        "description": "Condamné en janvier 2021 à 6 mois de sursis et 50 000 € d'amende pour dissimulation de revenus publicitaires.",
+        "title": "CondamnÃ© pour fraude fiscale",
+        "description": "CondamnÃ© en janvier 2021 Ã  6 mois de sursis et 50 000 â¬ d'amende pour dissimulation de revenus publicitaires.",
         "source_url": "https://www.lemonde.fr",
         "source_label": "Le Monde, janvier 2021",
         "date": "2021-01-20"
@@ -25,11 +25,27 @@
       {
         "id": "3",
         "category": "partenariat",
-        "title": "Partenariat crypto non déclaré",
-        "description": "A fait la promotion d'une plateforme de crypto-monnaies sans mentionner le partenariat rémunéré, en violation de la loi Sapin II.",
+        "title": "Partenariat crypto non dÃ©clarÃ©",
+        "description": "A fait la promotion d'une plateforme de crypto-monnaies sans mentionner le partenariat rÃ©munÃ©rÃ©, en violation de la loi Sapin II.",
         "source_url": "https://www.quechoisir.org",
         "source_label": "UFC-Que Choisir, juin 2023",
         "date": "2023-06-01"
+      }
+    ]
+  },
+  {
+    "channel_id": "",
+    "handle": "mamytwink",
+    "name": "MamyTwink",
+    "entries": [
+      {
+        "id": "f9a0847f-44f7-4b9c-aa00-940c1cc66ad3",
+        "category": "politique",
+        "title": "Partialité et militantisme",
+        "description": "S'oppose à la droite, a réalisé une vidéo \"histoire de Guerre\" en accentuant, déformant et sélectionnant ce qui l'arrangeait pour faire passer ses idées militantes",
+        "source_url": "https://youtu.be/TYS9THNcd34",
+        "source_label": "Vidéo youtube",
+        "date": ""
       }
     ]
   }
