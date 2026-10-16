@@ -3,35 +3,7 @@
     "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx",
     "handle": "nomducreateur",
     "name": "Nom du CrÃ©ateur",
-    "entries": [
-      {
-        "id": "1",
-        "category": "politique",
-        "title": "Soutien public Ã  l'extrÃªme droite",
-        "description": "A relayÃ© et commentÃ© favorablement plusieurs contenus d'extrÃªme droite lors de la campagne prÃ©sidentielle 2022.",
-        "source_url": "https://www.liberation.fr",
-        "source_label": "LibÃ©ration, mars 2022",
-        "date": "2022-03-15"
-      },
-      {
-        "id": "2",
-        "category": "juridique",
-        "title": "CondamnÃ© pour fraude fiscale",
-        "description": "CondamnÃ© en janvier 2021 Ã  6 mois de sursis et 50 000 â¬ d'amende pour dissimulation de revenus publicitaires.",
-        "source_url": "https://www.lemonde.fr",
-        "source_label": "Le Monde, janvier 2021",
-        "date": "2021-01-20"
-      },
-      {
-        "id": "3",
-        "category": "partenariat",
-        "title": "Partenariat crypto non dÃ©clarÃ©",
-        "description": "A fait la promotion d'une plateforme de crypto-monnaies sans mentionner le partenariat rÃ©munÃ©rÃ©, en violation de la loi Sapin II.",
-        "source_url": "https://www.quechoisir.org",
-        "source_label": "UFC-Que Choisir, juin 2023",
-        "date": "2023-06-01"
-      }
-    ]
+    "entries": []
   },
   {
     "channel_id": "",
